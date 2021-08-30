@@ -4,7 +4,7 @@
     while i < 8 #8 gif instances starting from 0
         print "\033[2J"
                  #the folder path     #the iterating file
-        File.foreach("#{i}.txt") do |f|
+        File.foreach("./images.gif and images.txt/#{i}.txt") do |f|
             puts f
         end
 
