@@ -1,4 +1,4 @@
-# cli-animation
+# CLI Animation
 Making small CLI animations with ruby 🐇
 
 I chose a cute bunny gif to make this project, feel free to test and see how cute it is.
